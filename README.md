@@ -8,8 +8,10 @@
 AntimaTiwari07/AntimaTiwari07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Antima Tiwari
-## 1ST YEAR 
-## branch: Information Technology
-### Hobbies : DANCING,Learning diffrent technologies
-~printf("hello world Antima here");
+<h1 align="center"> Hi😊, I'am Antima Tiwari</h1>
+<h3 align="centre"> Topper of Bhilwara district </h3>
+<h3 align="centre"> currently persuing b.tech from M.L.V.Textile and engineerning college </h3>
+<h
+
+
+  
