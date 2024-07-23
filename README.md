@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @AntimaTiwari07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- <br>
+- 👀 I’m interested in
+-  Web Development 💻
+-  Cyber Security
+-  <br>
+- 🌱 I’m currently learning
+- HTML
+- Data Structure And Algorithm
+- C
+- C++
+- <br>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- <br>
+- 📫 How to reach me
+- antimatiwari162006@gmail.com
 
 <!---
 AntimaTiwari07/AntimaTiwari07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
