@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antima Tiwari😊😊</h1>
+<h1 align="center">Hi 👋, I'm Antima Tiwari 😊😊</h1>
 <img align="right" alt="coding picture"width = "400"src= "https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952hrdye7iyrheyitix2fqqbfdm2d96ap4a2fl9kg1n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
 <h3 align="center">A passionate Web developer from India</h3>
 
